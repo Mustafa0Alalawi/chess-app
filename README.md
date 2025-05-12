@@ -45,3 +45,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # chess-app
+
+
+<img width="1325" alt="image" src="https://github.com/user-attachments/assets/802538d3-f78f-4d2d-82eb-6e35558ecb41" />
